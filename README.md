@@ -21,14 +21,14 @@ You should see:
 ```
 2. Run the client (new terminal):
 ```bash
-   cd energygrid-client
+   cd energygrid-data-aggregator/energygrid-client
    npm install && npm start
 ```
 Take about ~50 seconds
 Create an output/ folder with results
 
 ## 📚 Documentation
-See `energygrid-data-aggregator/energygrid-client/README.md` for complete documentation.
+See `energygrid-client/README.md` for complete documentation.
 
 ## ✅ Requirements Met
 
