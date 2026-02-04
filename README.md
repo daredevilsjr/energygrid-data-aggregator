@@ -8,10 +8,9 @@ Complete solution for the EnergyGrid Data Aggregator coding assignment.
 - `mock-api/` - Mock server for testing
 
 ## 🚀 Quick Start
-
 1. Start the mock API:
 ```bash
-   cd mock-api
+   cd energygrid-data-aggregator/mock-api
    npm install && npm start
 ```
 
@@ -29,7 +28,7 @@ Take about ~50 seconds
 Create an output/ folder with results
 
 ## 📚 Documentation
-See `energygrid-client/README.md` for complete documentation.
+See `energygrid-data-aggregator/energygrid-client/README.md` for complete documentation.
 
 ## ✅ Requirements Met
 
